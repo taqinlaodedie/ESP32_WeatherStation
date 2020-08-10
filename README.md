@@ -7,7 +7,7 @@
 
 该项目基于ESP官方的IDF框架开发，天气信息从openWeatherMap网站的API采用HTTP连接的方式获取。
 
-当前效果展示：![image]（https://github.com/taqinlaodedie/ESP32_WeatherStation/blob/master/img/res.png）
+当前效果展示：![image](https://github.com/taqinlaodedie/ESP32_WeatherStation/blob/master/img/res.png)
 
 未来可能加入的功能：
   1. 通过UART串口配置城市；
