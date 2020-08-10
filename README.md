@@ -5,7 +5,7 @@
 
 使用硬件：ESP32 DevKit v1开发板、Hiletgo 2.8寸SPI液晶屏。
 
-该项目基于ESP官方的IDF框架开发，天气信息从openWeatherMap网站的API采用HTTP连接的方式获取。
+该项目基于ESP官方的IDF框架使用platformio ide开发，天气信息从openWeatherMap网站的API采用HTTP连接的方式获取。
 
 当前效果展示：![image](https://github.com/taqinlaodedie/ESP32_WeatherStation/blob/master/img/res.png)
 
